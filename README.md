@@ -6,4 +6,4 @@ M. DENEB ISWANDI
 
 KELAS .NET
 
-Tugas - Hashing - 7
+Tugas - Fundamental Programming - 1
